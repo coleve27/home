@@ -84,10 +84,7 @@ a:hover {
 }
 .mainbody img {
   width: 200px;
-
-  padding-left: 2%;
-  padding-right: 2%;
-  padding-bottom: 2%
+  padding: 2%;
 }
 
 
